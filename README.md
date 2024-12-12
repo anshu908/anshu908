@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anshu908
-- 👀 I’m interested in coding & hacking 
+- 👋 Hi, I’m  𝗔𝗡𝗦𝗛
+- 👀 I’m NOT PRO CODER 
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 
 <!---
-anshu908/anshu908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.
+
+
 --->
