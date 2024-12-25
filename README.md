@@ -30,7 +30,8 @@ Here are some of my favorite projects:
 ## Connect with Me
 
 - [Instagram](https://www.instagram.com/anshopi__/)
-- [Twitter](https://twitter.com/anshopi)
+- <a href="https://t.me/ans_X_bot"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+
 - [Personal Website](https://mellifluous-dolphin-a34eed.netlify.app/)
 
 Thank you for visiting my profile. Have a great day! 😄
