@@ -1,4 +1,4 @@
-#Hɪ ᴛʜᴇʀᴇ , ɪ'ᴍ Aɴsʜᴜ
+# Hɪ ᴛʜᴇʀᴇ , ɪ'ᴍ Aɴsʜᴜ
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and work on exciting projects.
 
