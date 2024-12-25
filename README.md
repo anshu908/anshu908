@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## About Me
 
-- 💻 I specialize in [your specialties, e.g., web development, machine learning, etc.].
-- 🌱 Currently, I'm learning [new skills or technologies you're learning].
-- 👯 I'm looking to collaborate on [projects or areas of interest].
-- 💬 Ask me about [topics you can help with or are passionate about].
-- 📫 How to reach me: [your email or other contact information].
-- ⚡ Fun fact: [a fun fact about you].
+- 💻 I specialize in web development, machine learning, etc.].
+- 🌱 Currently, I'm learning new skills or technology like bot making on telegram.
+- 👯 I'm looking to collaborate on netlify .
+- 💬 Ask me about any topic .
+- 📫 How to reach me: anshppt19@gmail.com.
+- ⚡ Fun fact: coding .
 
 ## My GitHub Stats
 
