@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 Here are some of my favorite projects:
 
-- [Project 1](https://github.com/anshu908/project1): A brief description of what this project does.
+- [Project 1](https://legendary-swan-7ca626.netlify.app/): A brief description of what this project does.
 - [Project 2](https://github.com/anshu908/project2): A brief description of what this project does.
 - [Project 3](https://github.com/anshu908/project3): A brief description of what this project does.
 
