@@ -1,11 +1,14 @@
-# Hɪ ᴛʜᴇʀᴇ , ɪ'ᴍ Aɴsʜᴜ
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  
+   ── ❖ | ᴧηsʜ ꭙ sᴧɴᴧᴛᴧɴɪ | ❖ ──
 
-ᴡєʟᴄσϻє ᴛσ ϻʏ ɢɪᴛʜυʙ ᴘꝛσғɪʟє! ɪ'ϻ ᴧ ᴘᴧssɪσηᴧᴛє ᴅєᴠєʟσᴘєꝛ ᴡʜσ ʟσᴠєs ᴛσ єxᴘʟσꝛє ηєᴡ ᴛєᴄʜησʟσɢɪєs ᴧηᴅ ᴡσꝛᴋ ση єxᴄɪᴛɪηɢ ᴘꝛσᴊєᴄᴛs.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
 
 
 
-
-   [![Aɴsʜᴜ](https://github-stats-alpha.vercel.app/api?username=anshu908 "Aɴsʜᴜ")](https://github-stats-alpha.vercel.app/api?username=anshu908 "Aɴsʜᴜ")
+   [![Aɴsʜ](https://github-stats-alpha.vercel.app/api?username=anshu908 "Aɴsʜᴜ")](https://github-stats-alpha.vercel.app/api?username=anshu908 "Aɴsʜᴜ")
 
    ## About Me
 - 💻 ɪ sᴘєᴄɪᴧʟɪᴢє ɪη ᴡєʙ ᴅєᴠєʟσᴘϻєηᴛ, ϻᴧᴄʜɪηє ʟєᴧꝛηɪηɢ, єᴛᴄ.].
@@ -13,26 +16,49 @@
 - 👯 ɪ'ϻ ʟσσᴋɪηɢ ᴛσ ᴄσʟʟᴧʙσꝛᴧᴛє ση ηєᴛʟɪғʏ .- 💬 ᴧsᴋ ϻє ᴧʙσυᴛ ᴧηʏ ᴛσᴘɪᴄ .
 - 📫 ʜσᴡ ᴛσ ꝛєᴧᴄʜ ϻє: anshppt19@gmail.com.
 - ⚡ Ғυη ғᴧᴄᴛ: ᴄσᴅɪηɢ .
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
   
 
+  <img src="https://envs.sh/Nmh.jpg">
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  
 [![Profile Badge](https://img.shields.io/badge/Always%20Smile-%F0%9F%98%8A%20%F0%9F%98%8A%20%F0%9F%98%8A-yellow)](https://github.com/Ansh)
 
-**Followers:** 0 | **Following:** 3
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  
 
+**Followers:** 0 | **Following:** 3
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  
   
 🔗 **[GitHub](https://github.com/anshu908/)**  
 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  
+
 ---
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=anshu908)
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  
 
 ## Projects
 
 Here are some of my favorite projects:
 
-- [Project 1](https://legendary-swan-7ca626.netlify.app/): 𝙼𝚢 𝚏𝚒𝚛𝚜𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝
-- [Project 2](https://mellifluous-dolphin-a34eed.netlify.app/): 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 𝕡𝕣𝕠𝕛𝕖𝕔𝕥
-- [Project 3](https://github.com/anshu908/project-link): A brief description of what this project does.
-
+- [Project 1](https://legendary-swan-7ca626.netlify.app/):
+- [Project 2](https://mellifluous-dolphin-a34eed.netlify.app/): 
+- [Project 3](https://github.com/anshu908/project-link):
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  
 ## Connect with Me
 
 - [Instagram](https://www.instagram.com/anshopi__/)
@@ -40,6 +66,9 @@ Here are some of my favorite projects:
 
 - [Personal Website](https://mellifluous-dolphin-a34eed.netlify.app/)
 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  
 Thank you for visiting my profile. Have a great day! 😄
 
 ---
