@@ -11,11 +11,12 @@
    [![Aɴsʜ](https://github-stats-alpha.vercel.app/api?username=anshu908 "Aɴsʜᴜ")](https://github-stats-alpha.vercel.app/api?username=anshu908 "Aɴsʜᴜ")
 
    ## About Me
-- 💻 ɪ sᴘєᴄɪᴧʟɪᴢє ɪη ᴡєʙ ᴅєᴠєʟσᴘϻєηᴛ, ϻᴧᴄʜɪηє ʟєᴧꝛηɪηɢ, єᴛᴄ.].
+**- 💻 ɪ sᴘєᴄɪᴧʟɪᴢє ɪη ᴡєʙ ᴅєᴠєʟσᴘϻєηᴛ, ϻᴧᴄʜɪηє ʟєᴧꝛηɪηɢ, єᴛᴄ.].
 - 🌱 ᴄυꝛꝛєηᴛʟʏ, ɪ'ϻ ʟєᴧꝛηɪηɢ ηєᴡ sᴋɪʟʟs σꝛ ᴛєᴄʜησʟσɢʏ ʟɪᴋє ʙσᴛ ϻᴧᴋɪηɢ ση ᴛєʟєɢꝛᴧϻ.
 - 👯 ɪ'ϻ ʟσσᴋɪηɢ ᴛσ ᴄσʟʟᴧʙσꝛᴧᴛє ση ηєᴛʟɪғʏ .- 💬 ᴧsᴋ ϻє ᴧʙσυᴛ ᴧηʏ ᴛσᴘɪᴄ .
 - 📫 ʜσᴡ ᴛσ ꝛєᴧᴄʜ ϻє: anshppt19@gmail.com.
-- ⚡ Ғυη ғᴧᴄᴛ: ᴄσᴅɪηɢ .
+- ⚡ Ғυη ғᴧᴄᴛ: ᴄσᴅɪηɢ .**
+  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   
