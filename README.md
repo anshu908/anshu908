@@ -20,9 +20,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   
-<video width="640" height="360" controls autoplay loop muted>
-    <source src="https://envs.sh/bwU.mp4" type="video/mp4">
-</video>
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://envs.sh/bwU.mp4)
+
 
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
